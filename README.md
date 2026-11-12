@@ -60,6 +60,22 @@ The application presents its findings through a user-friendly interface, making 
 - Security requirement indicators.
 - Readable feedback and recommendations.
 
+## 📸 Application Screenshots
+
+### Main Security Dashboard
+
+![Password Analyzer Dashboard](screenshots/dashboard.png)
+
+### Weak Password Analysis
+
+![Weak Password Analysis](screenshots/weak-password.png)
+
+### Strong Password Analysis
+
+![Strong Password Analysis](screenshots/strong-password.png)
+
+---
+
 ## 🏗️ System Architecture
 
 ```text
